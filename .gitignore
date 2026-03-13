@@ -1,0 +1,19 @@
+# Data
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv
+env/
+
+# OS
+.DS_Store
